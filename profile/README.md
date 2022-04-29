@@ -1,4 +1,4 @@
-## Hey, we are wopl! ✨
+## Hey, we are Wopl! ✨
 
 Yes, we are building Wopl on GitHub!
 
